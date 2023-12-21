@@ -24,14 +24,6 @@ cd MLSAUBIT_ds_bootcamp/projects/projects2
 
 ```
 
-### Install Dependencies:
-
-```bash
-
-pip install -r requirements.txt
-
-```
-
 ### Run the Application:
 
 ```bash
@@ -44,31 +36,6 @@ streamlit run app.py
 
 Open your web browser and navigate to [https://m-r-s.abdullahjaffre1.repl.co/](https://m-r-s.abdullahjaffre1.repl.co/) to access the Movie Recommendation System.
 
-### Input Preferences
-
-- **Genre:** Select the preferred movie genre from the dropdown menu.
-
-- **Minimum Rating:** Set the minimum rating for recommended movies.
-
-- **Number of Recommendations:** Choose the desired number of movie recommendations.
-
-### Output
-
-- **Recommended Movies:** Displays a list of recommended movies based on user preferences.
-
-- **Movie Details:** Click on a movie to view detailed information.
-
-## Future Enhancements
-
-- Integration with user accounts for personalized recommendations.
-
-- Incorporation of collaborative filtering for improved accuracy.
-
-- Implementation of a search feature for specific movie titles.
-
-## Feedback and Issues
-
-If you encounter any issues or have suggestions for improvement, please [open an issue](https://github.com/AbdullahJaffrey/MLSAUBIT_ds_bootcamp/issues) on the GitHub repository.
 
 ## Download the files:
 
