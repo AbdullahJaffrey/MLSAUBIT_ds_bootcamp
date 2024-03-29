@@ -1,15 +1,15 @@
-# Microsoft Learn Student Ambassadors -University of Karachi- DCS-UBIT Data Science Bootcamp: 
+# 12-week Python Data Analysis Training Program offered by Poshem Technologies Institute:
 
 Hi, There!! 👋
 
-Here, You can access all of the materials I gathered while attending the bootcamp.
+Here, You can access all of the materials I gathered while attending the training program.
 
-Try it online: https://github.dev/AbdullahJaffrey/MLSAUBIT_ds_bootcamp/blob/main/projects
+Try it online: https://github.dev/AbdullahJaffrey/PoshemTechnologiesInstitute-Python
 
 Here's my certificate:
 
-!['MLSA Uok DataScience Bootcamp Certificate'](https://raw.githubusercontent.com/AbdullahJaffrey/MLSAUBIT_ds_bootcamp/main/MLSA%20Uok%20DataScience%20Bootcamp%20Certificate.jpeg)
+!['12-week Python Data Analysis Training Program'](https://github.com/AbdullahJaffrey/PoshemTechnologiesInstitute-Python/blob/main/Jafri%20Cert.png)
 
-Thankyou, sir [@FaisalAmin](https://github.com/faisalamin12) !! ❤️
+Thankyou, [@PoshemTechnologies](https://github.com/Poshemtech) !! ❤️
 
 With Love and Regards !! ❤️
